@@ -1,0 +1,7 @@
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\bin\Debug\lecture_04_classes_struct.exe.config
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\bin\Debug\lecture_04_classes_struct.exe
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\bin\Debug\lecture_04_classes_struct.pdb
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\obj\Debug\lecture_04_classes_struct.csprojAssemblyReference.cache
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\obj\Debug\lecture_04_classes_struct.csproj.CoreCompileInputs.cache
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\obj\Debug\lecture_04_classes_struct.exe
+C:\Users\Danish Ali\source\repos\lecture_04_classes_struct\lecture_04_classes_struct\obj\Debug\lecture_04_classes_struct.pdb
